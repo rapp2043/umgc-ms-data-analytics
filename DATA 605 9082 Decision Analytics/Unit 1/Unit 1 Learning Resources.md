@@ -6,6 +6,7 @@ Data Analyst, Chapter 1: Introduction to Data Analytics (estimated time: 1 hour)
 
 - As you read Chapter 1 and ponder the foundational concepts, take note of the challenges inherent in data analysis, as these considerations will be explored in greater detail in this course.
 - Rasmussen, R., Gulati, H., Joseph, C. Stainer, C, Umegbolu, O. (2019). Data analyst. O’Reilly Media, Inc.
+- [Chapter 1 Podcast via NotebookLM](https://notebooklm.google.com/notebook/2db90a4f-92b3-4b1b-bbd4-22c964075455/audio)
 
 ---
 
